@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PracticalTest02v9</string>
+    <string name="hint_enter_word">Enter a word</string>
+    <string name="hint_min_length">Enter min length</string>
+    <string name="button_search">Search</string>
+    <string name="result_display">Result will be displayed here</string>
+
 </resources>
